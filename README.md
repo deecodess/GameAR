@@ -1,6 +1,6 @@
-# Casual Multiplayer 3D AR Game for Android Platform
+# Multiplayer 3D AR Game 
 
-This is a casual multiplayer 3D AR game developed for the Android platform using Unity 3D. The game incorporates ARCore, AR Foundation, and the Universal Render Pipeline (URP) to provide an immersive experience. It offers various classic board games, including chess, carrom, ludo, and snakes and ladders.
+This is a  multiplayer 3D AR game developed for the Android platform using Unity 3D. The game incorporates ARCore, AR Foundation, and the Universal Render Pipeline (URP) to provide an immersive experience. It offers various classic board games, including chess, carrom, ludo, and snakes and ladders.
 
 ## Features
 
